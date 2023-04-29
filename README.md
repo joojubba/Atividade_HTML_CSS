@@ -2,7 +2,7 @@
 
 
 
-## ✅ Desafio:
+## ✅ Desafio Proposto:
 
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 - Página inicial: crie uma página inicial que apresente uma breve introdução ao site e tenha um menu de navegação com links para outras páginas do site.
@@ -19,14 +19,22 @@ Desenvolva um site para uma empresa, com todas informações da empresa. A pági
 
 
 
+## ✅ Realizado:
+
+O site tem a proposta de exposição de um projeto de intervenção turística. 
+
+- A página Inicial conta com um quadro de links com as atividades propostas da pesquisa; 
+- Na página Sobre conta com uma breve justificativa do projeto e é possível acessar o link para uma tabela comparativa com tipos de passeios e preços, também com o link para acessar as agências que atuam no Recife;
+- Na página Contato é possível preencher um formulário, com dados de nome e email obrigatórios, e enviar uma mensagem que é possível acessar outra página com a mensagem de envio realizado; 
+- Na página Galeria conta com uma galeria de imagens dos atrativos turísticos.
 
 
 
+📚 Referências: 
+
+- Para o menu de navegação: https://www.w3schools.com/css/default.asp 
+
+- Para o quadro de atividades (imagens): https://www.freecodecamp.org/portuguese/news/como-criar-uma-galeria-de-imagens-com-o-css-grid/
 
 
 
-
-
-
-Referência para criação de menu: https://www.w3schools.com/css/default.asp
-Referência para o quadro de atividades: https://www.freecodecamp.org/portuguese/news/como-criar-uma-galeria-de-imagens-com-o-css-grid/
