@@ -29,6 +29,11 @@ O site tem a proposta de exposição de um projeto de intervenção turística. 
 - Na página Galeria conta com uma galeria de imagens dos atrativos turísticos.
 
 
+## Site 🔻
+
+
+![atividadehtml](https://user-images.githubusercontent.com/89705012/235325613-eeac1d88-2c9a-412c-a73d-6d97059377c6.png)
+
 
 📚 Referências: 
 
