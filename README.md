@@ -21,7 +21,7 @@ Desenvolva um site para uma empresa, com todas informações da empresa. A pági
 
 ## ✅ Realizado:
 
-O site tem a proposta de exposição de um projeto de intervenção turística. 
+O site tem a proposta de exposição de um projeto de intervenção turística. Breve explicação da navegação: 
 
 - A página Inicial conta com um quadro de links com as atividades propostas da pesquisa; 
 - Na página Sobre conta com uma breve justificativa do projeto e é possível acessar o link para uma tabela comparativa com tipos de passeios e preços, também com o link para acessar as agências que atuam no Recife;
