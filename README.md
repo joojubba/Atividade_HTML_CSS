@@ -21,7 +21,7 @@ Desenvolva um site para uma empresa, com todas informações da empresa. A pági
 
 ## ✅ Realizado:
 
-O site tem a proposta de exposição de um projeto de intervenção turística. 
+O site tem a proposta de exposição de um projeto de intervenção turística. Breve explicação da navegação: 
 
 - A página Inicial conta com um quadro de links com as atividades propostas da pesquisa; 
 - Na página Sobre conta com uma breve justificativa do projeto e é possível acessar o link para uma tabela comparativa com tipos de passeios e preços, também com o link para acessar as agências que atuam no Recife;
@@ -32,10 +32,14 @@ O site tem a proposta de exposição de um projeto de intervenção turística.
 
 📚 Referências: 
 
-- Para o menu de navegação: https://www.w3schools.com/css/default.asp 
+- <a href="https://www.w3schools.com/css/default.asp/">Para o menu de navegação</a>
 
-- Para o quadro de atividades (imagens): https://www.freecodecamp.org/portuguese/news/como-criar-uma-galeria-de-imagens-com-o-css-grid/
-- Para o uso dos ícones de rede social: https://www.youtube.com/watch?v=18nQTBKt-Bg
+- <a href="https://www.freecodecamp.org/portuguese/news/como-criar-uma-galeria-de-imagens-com-o-css-grid/">Para o quadro de atividades (imagens)</a>
 
+- <a href="https://youtu.be/18nQTBKt-Bg">Para o uso dos ícones de rede social</a>
+
+  
+
+  
 
 
