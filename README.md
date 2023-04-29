@@ -31,8 +31,7 @@ O site tem a proposta de exposição de um projeto de intervenção turística. 
 
 ## Site 🔻
 
-
-![atividadehtml](https://user-images.githubusercontent.com/89705012/235325613-eeac1d88-2c9a-412c-a73d-6d97059377c6.png)
+![atividadehtml](https://user-images.githubusercontent.com/89705012/235325692-3656ceb2-a9bd-4b34-8e63-4fe2cf3c9877.png)
 
 
 📚 Referências: 
