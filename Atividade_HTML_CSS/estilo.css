@@ -22,10 +22,10 @@ body{
 }
 .marcatexto
 {
-    box-shadow: 15px 0 0 0 #f4eb96, -5px 0 0 0 #f4eb96;
+    box-shadow: 10px 0 0 0 #f4eb96, -5px 0 0 0 #f4eb96;
 	background: #f4eb96;
 	display: inline;
-	padding: 3px 0 !important;
+	padding: 2px 0 !important;
 	position: relative;
 }
 .texto1 {
@@ -34,7 +34,7 @@ body{
     font-style: normal;
     color:  #2f0c07;
     text-transform: uppercase;
-    font-weight: 800;
+   
     font-variant:normal;
     background-color: #ecbf59;
   }
@@ -53,7 +53,7 @@ body{
 #texto3{
     text-align: justify;   
 }
-#texto{
+#texto4{
     text-align: center;   
 }
 .container {
@@ -155,7 +155,6 @@ input[type=text], select {
 }
 div {
     border-radius: 5px;
-    background-color: #fffbf4;
     padding: 20px;
 }
 .coluna {
@@ -168,6 +167,5 @@ div {
 }
 .coluna.lado1 {
     width: 70%;
-
 }
- 
+
