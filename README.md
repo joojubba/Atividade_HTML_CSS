@@ -29,13 +29,16 @@ O site tem a proposta de exposição de um projeto de intervenção turística.
 - Na página Galeria conta com uma galeria de imagens dos atrativos turísticos.
 
 
+
 📚 Referências: 
 
 - <a href="https://www.w3schools.com/css/default.asp/">Para o menu de navegação</a>
 
 - <a href="https://www.freecodecamp.org/portuguese/news/como-criar-uma-galeria-de-imagens-com-o-css-grid/">Para o quadro de atividades (imagens)</a>
 
-- <a href=“https://www.youtube.com/watch?v=18nQTBKt-Bg"> Para o uso dos ícones de rede social</a>
+- <a href="https://youtu.be/18nQTBKt-Bg">Para o uso dos ícones de rede social</a>
+
+  
 
   
 
