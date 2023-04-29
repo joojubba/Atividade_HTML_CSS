@@ -35,6 +35,7 @@ O site tem a proposta de exposição de um projeto de intervenção turística.
 - Para o menu de navegação: https://www.w3schools.com/css/default.asp 
 
 - Para o quadro de atividades (imagens): https://www.freecodecamp.org/portuguese/news/como-criar-uma-galeria-de-imagens-com-o-css-grid/
+-Para o uso dos ícones de rede social: https://www.youtube.com/watch?v=18nQTBKt-Bg
 
 
 
